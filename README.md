@@ -20,6 +20,9 @@
 [<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" alt="JQuery"/></code>](https://api.jquery.com)
 **JQuery** 
 
+[<code><img height="32" src="https://raw.githubusercontent.com/github/explore/8be26d91eb231fec0b8856359979ac09f27173fd/topics/ajax/ajax.png" alt="Ajax"/></code>](https://api.jquery.com/category/ajax/)
+**Ajax** 
+
 [<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" alt="JSON"/></code>](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Objects/JSON)
 **JSON** 
 
